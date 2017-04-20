@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+.App {
+  display: flex;
+  height: 100vh;
+  width: auto;
+  background: linear-gradient(to bottom,  #3a87c1 0%,#016fc4 100%);
+  font-family: 'Roboto', sans-serif;
+}
