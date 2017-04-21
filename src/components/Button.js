@@ -31,6 +31,7 @@ class Button extends Component {
         hoverCount: this.state.hoverCount + 1,
         message: <h1>😂😂😂😂😂😂😂😂</h1>
       });
+      console.log('Visit my LinkedIn at https://www.linkedin.com/in/vinnymartinez');
     }
   }
 
