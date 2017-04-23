@@ -20,7 +20,7 @@ class Button extends Component {
       this.setState({
         top: Math.floor((Math.random() * (window.innerHeight - (window.innerHeight * .1))) + 0),
         left: Math.floor((Math.random() * (window.innerWidth - (window.innerWidth * .1))) + 0),
-        message: <div><h2>vinny@vinnymartinez.com</h2><p className='pMarg'>say hi!</p></div>
+        message: <div><h2>vinny@vinnymartinez.com</h2><p className='p-marg'>say hi!</p></div>
       });
     }
     else {
